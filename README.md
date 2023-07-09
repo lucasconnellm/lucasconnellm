@@ -1,5 +1,6 @@
-### Hi there 👋
+### Godspeed, traveler ⛵
 
+I'm Lucas, an engineer with 4+ years of Python and Typescript experience. I'm passionate about open source projects and learning new things.
 <!--
 **lucasconnellm/lucasconnellm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
